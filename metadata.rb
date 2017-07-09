@@ -1,6 +1,6 @@
 name 'httpdmanish'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Manish K'
+maintainer_email 'kmanish2061@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures httpdmanish'
 long_description 'Installs/Configures httpdmanish'
